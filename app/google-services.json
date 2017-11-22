@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "823020559204",
+    "firebase_url": "https://timertest-79673.firebaseio.com",
+    "project_id": "timertest-79673",
+    "storage_bucket": "timertest-79673.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823020559204:android:eaca1ddfff58a927",
+        "android_client_info": {
+          "package_name": "com.example.admin.timertest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "823020559204-e9815elfor13v379m6bhqovvsnn2q439.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-Szn0sQsbSrGg27GD22mhpYMZ7Ua4iSU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
